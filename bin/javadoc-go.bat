@@ -1,0 +1,1 @@
+javadoc -public -encoding UTF-8 -d hessian-4.0.38-api -version -author -splitindex -windowtitle hessian-4.0.38 -docencoding UTF-8 -linksource -charset UTF-8 @package-info.java 
